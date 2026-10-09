@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd9a2efe75e388a9c02bff74bc193d36",
+    "revision": "b9b838e964ed055097cf944770174948",
     "url": "/index.html"
   },
   {
-    "revision": "a1af53482a515e13f4ea",
-    "url": "/static/css/main.06af727a.chunk.css"
+    "revision": "d36325fe1007e6bba281",
+    "url": "/static/css/main.54dc8341.chunk.css"
   },
   {
-    "revision": "aa5a8f01fea3843c1c9e",
-    "url": "/static/js/2.a71167dd.chunk.js"
+    "revision": "05a1f36f82089e52dd34",
+    "url": "/static/js/2.7b6237e4.chunk.js"
   },
   {
-    "revision": "a1af53482a515e13f4ea",
-    "url": "/static/js/main.ce8f72c6.chunk.js"
+    "revision": "d36325fe1007e6bba281",
+    "url": "/static/js/main.265daf59.chunk.js"
   },
   {
     "revision": "783a86af270c160367fc",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "15fdac245e15de7f0a0f5bf9ccdff756",
-    "url": "/static/media/Resume.15fdac24.pdf"
+    "revision": "5e978fb34888fba7323343e7b34fc5cc",
+    "url": "/static/media/Resume.5e978fb3.pdf"
   },
   {
     "revision": "77aeede255c1fe637ffd3b71f017b762",
@@ -134,6 +134,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/static/media/address_image.16559172.svg"
+  },
+  {
+    "revision": "6ffb61b2eeb221e50263db95881da112",
+    "url": "/static/media/alogoverse.6ffb61b2.jpg"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
@@ -252,6 +256,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/feelingProud.2936ce95.svg"
   },
   {
+    "revision": "b3593c98a9c150c16c283c9d0d94a422",
+    "url": "/static/media/fig1-accept-rates.b3593c98.png"
+  },
+  {
+    "revision": "56f9caef5eb92a03b9d19055ed222b7b",
+    "url": "/static/media/fig2-threshold-sensitivity.56f9caef.png"
+  },
+  {
+    "revision": "f603d13ee957d8e3117d9a846f0fe7dc",
+    "url": "/static/media/fig3-calibration-coverage.f603d13e.png"
+  },
+  {
     "revision": "fce6080726685cabdb4f75a0d8018325",
     "url": "/static/media/fullstack.fce60807.svg"
   },
@@ -300,6 +316,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pace.3d4d76a1.png"
   },
   {
+    "revision": "a6dc18bf88c9aa5cc24443b437c873fe",
+    "url": "/static/media/paper-title.a6dc18bf.png"
+  },
+  {
     "revision": "92a9eeebde9b239b58d08c4086aa0164",
     "url": "/static/media/profile2.92a9eeeb.JPG"
   },
@@ -328,6 +348,58 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pwa.71408db7.png"
   },
   {
+    "revision": "ef8232c9bb326ad20f263d698da4fe56",
+    "url": "/static/media/slide-01.ef8232c9.jpg"
+  },
+  {
+    "revision": "901fac6246f939753a21200bd3aa5c13",
+    "url": "/static/media/slide-02.901fac62.jpg"
+  },
+  {
+    "revision": "406628f3cecadb927d90fbea2bb15180",
+    "url": "/static/media/slide-03.406628f3.jpg"
+  },
+  {
+    "revision": "6e8e09a82b8226b359e72d20c5e7fba1",
+    "url": "/static/media/slide-04.6e8e09a8.jpg"
+  },
+  {
+    "revision": "5a3f4248691e9d9dd664f0bbb90979f8",
+    "url": "/static/media/slide-05.5a3f4248.jpg"
+  },
+  {
+    "revision": "dbc8bd0b382759bff4508adcd452b304",
+    "url": "/static/media/slide-06.dbc8bd0b.jpg"
+  },
+  {
+    "revision": "b9beb90575b20762d6c6f6da5879f774",
+    "url": "/static/media/slide-07.b9beb905.jpg"
+  },
+  {
+    "revision": "1730a60d63da41a01b7a8f61e85e6380",
+    "url": "/static/media/slide-08.1730a60d.jpg"
+  },
+  {
+    "revision": "94034490d8b3099e37deb53b981cd5ab",
+    "url": "/static/media/slide-09.94034490.jpg"
+  },
+  {
+    "revision": "df6c49df5b80f26b93afe0a7ebe5f1b5",
+    "url": "/static/media/slide-10.df6c49df.jpg"
+  },
+  {
+    "revision": "70852cb9994e4b68f9d722990c725b87",
+    "url": "/static/media/slide-11.70852cb9.jpg"
+  },
+  {
+    "revision": "beab21c5639ef1319d4e781d6cf9673a",
+    "url": "/static/media/slide-12.beab21c5.jpg"
+  },
+  {
+    "revision": "52f9eab13d38dcf7b0f000fb4b70be4b",
+    "url": "/static/media/slide-13.52f9eab1.jpg"
+  },
+  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "/static/media/stanford_logo.2c497738.png"
   },
@@ -350,5 +422,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "/static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "686d63b4abb8936e58fa8a3348c64a1b",
+    "url": "/static/media/webots.686d63b4.jpeg"
   }
 ]);
